@@ -227,7 +227,7 @@
 // UART Definitions
 // Define here Serial instance number to map on Serial generic name
 #ifndef SERIAL_UART_INSTANCE
-  #define SERIAL_UART_INSTANCE  4
+  #define SERIAL_UART_INSTANCE  3
 #endif
 
 // Default pin used for 'Serial' instance

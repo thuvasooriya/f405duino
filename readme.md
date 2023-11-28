@@ -4,3 +4,5 @@
 
 ### Well need to understand more things to configure...
 Reach out if you wanna help :)
+
+- Start by editing the src/main.cpp file :)
